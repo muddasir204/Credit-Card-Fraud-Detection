@@ -1,5 +1,6 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8081c87f-bcce-4fad-b004-91eab5e845b7" /># Credit-Card-Fraud-Detection
+# Credit-Card-Fraud-Detection
 Machine learning model using Random Forest and CART algorithms.
+
 ## Dataset Info
 The dataset used for this model is quite large, so it cannot be uploaded directly to GitHub due to size limitations. 
 
